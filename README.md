@@ -1,7 +1,7 @@
 # Number-theory-in-sagemath
 
 
-Lets start with implemention RSA in sagemath.
+Lets start with implemention of RSA in sagemath.
 To do this, 
 Key generation:
 1- choose	two	big	primes	p	and	q,	and	let	n=pq. 
