@@ -17,10 +17,12 @@ Key generation:
 
 Encryption: 
 
+1- For any message m <n, encrypt m by c=m^e mode n
 
 Decryption:
 
-
+1- Decrypty ciphertext c and obtaim m by m=c^d=m^(e.d) mod n
+ 
 Now it's time to go through sagemath and impleemnt this sudocode in sagemath. 
 
 
